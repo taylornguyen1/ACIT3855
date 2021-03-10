@@ -1,0 +1,156 @@
+openapi: 3.0.0
+info:
+  description: This API receives the reading of likes and views from my Youtube videos
+  version: "1.0.0"
+  title: Youtube API
+  contact:
+    email: taylornguyen604@gmail.com
+tags:
+  - name: plugin
+    description: plugin to track video views and likes
+paths:
+#  /tracker/views:
+#    post:
+#      tags:
+#        - plugin
+#      summary: shows videos views
+#      operationId: app.total_views
+#      description: |
+#        Shows total views
+#      responses:
+#        '201':
+#          description: item created
+#        '400':
+#          description: 'invalid input, object invalid'
+#      requestBody:
+#        content:
+#          application/json:
+#            schema:
+#              $ref: '#/components/schemas/Views'
+#        description: Adding view
+  /get/views:
+    get:
+      tags:
+        - plugin
+      summary: shows videos views
+      operationId: app.get_total_views
+      description: Shows total views
+      parameters:
+        - name: timestamp
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: string
+            format: date-time
+            example: 2016-08-29T09:12:33.001Z
+      responses:
+        '200':
+          description: Successfully returned a list of view events
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Views'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+#  /tracker/likes:
+#    post:
+#      tags:
+#        - plugin
+#      summary: shows videos likes
+#      operationId: app.total_likes
+#      description: |
+#        Shows total likes
+#      responses:
+#        '201':
+#          description: item created
+#        '400':
+#          description: 'invalid input, object invalid'
+#      requestBody:
+#        content:
+#          application/json:
+#            schema:
+#              $ref: '#/components/schemas/Likes'
+#        description: Adding likes
+  /get/likes:
+    get:
+      tags:
+        - plugin
+      summary: shows videos likes
+      operationId: app.get_total_likes
+      description: Shows total likes
+      parameters:
+        - name: timestamp
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: string
+            format: date-time
+            example: 2016-08-29T09:12:33.001Z
+      responses:
+        '200':
+          description: Successfully returned a list of like events
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Likes'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+components:
+  schemas:
+    Views:
+      required:
+        - timestamp
+        - views
+      properties:
+        user_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f051
+        timestamp:
+          type: string
+          format: date-time
+          example: 2016-08-29T09:12:33.001Z
+        views:
+          type: integer
+          format: number
+          example: 3
+      type: object
+      
+    Likes:
+      required:
+        - timestamp
+        - likes
+      properties:
+        user_id:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        timestamp:
+          type: string
+          format: date-time
+          example: 2016-08-29T09:12:33.001Z
+        likes:
+          type: integer
+          format: number
+          example: 3
+      type: object      
+      

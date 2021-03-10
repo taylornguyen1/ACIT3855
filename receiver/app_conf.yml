@@ -1,0 +1,15 @@
+version: 1
+views:
+  url: http://localhost:8090/tracker/views
+likes:
+  url: http://localhost:8090/tracker/likes
+datastore:
+ user: "user"
+ password: "password"
+ hostname: "taylor-lab6.eastus.cloudapp.azure.com"
+ port: 3306
+ db: "events"
+events:
+  hostname: "taylor-lab6.eastus.cloudapp.azure.com"
+  port: 9092
+  topic: "events"

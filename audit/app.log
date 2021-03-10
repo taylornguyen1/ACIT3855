@@ -1,0 +1,28 @@
+2021-03-04 02:48:25,186 - basicLogger - INFO - Hostname: taylor-lab6.eastus.cloudapp.azure.com Port: 3306
+2021-03-04 02:50:28,970 - basicLogger - INFO - Retrieving new views at index 0
+2021-03-04 02:52:26,675 - basicLogger - INFO - Hostname: taylor-lab6.eastus.cloudapp.azure.com Port: 3306
+2021-03-04 02:52:33,361 - basicLogger - INFO - Retrieving new views at index 0
+2021-03-04 02:52:34,363 - basicLogger - ERROR - Could not find new views at index 0
+2021-03-04 02:56:11,068 - basicLogger - INFO - Hostname: taylor-lab6.eastus.cloudapp.azure.com Port: 3306
+2021-03-04 02:56:16,646 - basicLogger - INFO - Retrieving new views at index 0
+2021-03-04 09:31:03,237 - basicLogger - INFO - Hostname: taylor-lab6.eastus.cloudapp.azure.com Port: 3306
+2021-03-04 09:31:35,792 - basicLogger - INFO - Retrieving new views at index 0
+2021-03-04 09:31:41,631 - basicLogger - INFO - Retrieving new views at index 1
+2021-03-04 09:32:10,403 - basicLogger - INFO - Retrieving new views at index 41
+2021-03-04 09:32:11,483 - basicLogger - ERROR - Could not find new views at index 41
+2021-03-04 09:32:15,910 - basicLogger - INFO - Retrieving new views at index 40
+2021-03-04 09:32:16,995 - basicLogger - ERROR - Could not find new views at index 40
+2021-03-04 09:32:21,483 - basicLogger - INFO - Retrieving new views at index 0
+2021-03-04 09:32:26,173 - basicLogger - INFO - Retrieving new views at index 3
+2021-03-04 09:32:27,256 - basicLogger - ERROR - Could not find new views at index 3
+2021-03-04 09:33:56,837 - basicLogger - INFO - Retrieving new views at index 3
+2021-03-04 09:34:06,607 - basicLogger - INFO - Retrieving new views at index 4
+2021-03-04 09:34:07,691 - basicLogger - ERROR - Could not find new views at index 4
+2021-03-04 09:34:13,557 - basicLogger - INFO - Retrieving new views at index 1
+2021-03-04 11:45:05,219 - basicLogger - INFO - Hostname: taylor-lab6.eastus.cloudapp.azure.com Port: 3306
+2021-03-04 11:46:09,721 - basicLogger - INFO - Retrieving new views at index 15
+2021-03-04 11:46:10,812 - basicLogger - ERROR - Could not find new views at index 15
+2021-03-04 11:46:20,549 - basicLogger - INFO - Retrieving new views at index 5
+2021-03-04 11:46:38,401 - basicLogger - INFO - Retrieving new views at index 15
+2021-03-04 11:46:47,269 - basicLogger - INFO - Retrieving new views at index 30
+2021-03-04 11:46:48,960 - basicLogger - ERROR - Could not find new views at index 30

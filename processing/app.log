@@ -1,0 +1,1080 @@
+2021-02-18 04:40:21,807 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:40:23,910 - basicLogger - INFO - The number of view events received are: 50
+2021-02-18 04:40:25,957 - basicLogger - INFO - The number of like events received are: 50
+2021-02-18 04:40:25,961 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:40:21.809370", "views": 50, "likes": 50}
+2021-02-18 04:40:25,961 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:40:26,809 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:40:28,856 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:40:30,886 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:40:30,887 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:40:26.830483", "views": 50, "likes": 50}
+2021-02-18 04:40:30,894 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:40:31,809 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:40:33,845 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:40:35,883 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:40:35,886 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:40:31.822290", "views": 50, "likes": 50}
+2021-02-18 04:40:35,886 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:40:36,810 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:40:38,888 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:40:40,932 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:40:40,934 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:40:36.832367", "views": 50, "likes": 50}
+2021-02-18 04:40:40,935 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:40:41,817 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:40:43,883 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:40:45,908 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:40:45,911 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:40:41.850366", "views": 50, "likes": 50}
+2021-02-18 04:40:45,911 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:40:46,821 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:40:48,893 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:40:50,920 - basicLogger - INFO - The number of like events received are: 1
+2021-02-18 04:40:50,922 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:40:46.864918", "views": 50, "likes": 51}
+2021-02-18 04:40:50,923 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:40:51,808 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:40:53,858 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:40:55,883 - basicLogger - INFO - The number of like events received are: 1
+2021-02-18 04:40:55,885 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:40:51.828507", "views": 50, "likes": 52}
+2021-02-18 04:40:55,885 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:40:56,809 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:40:58,865 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:41:00,889 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:41:00,891 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:40:56.827862", "views": 50, "likes": 52}
+2021-02-18 04:41:00,891 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:41:01,808 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:41:03,854 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:41:05,881 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:41:05,884 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:41:01.826571", "views": 50, "likes": 52}
+2021-02-18 04:41:05,885 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:41:06,815 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:41:08,854 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:41:10,879 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:41:10,881 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:41:06.829183", "views": 50, "likes": 52}
+2021-02-18 04:41:10,882 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:41:11,822 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:41:13,883 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:41:15,917 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:41:15,919 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:41:11.836248", "views": 50, "likes": 52}
+2021-02-18 04:41:15,920 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:41:16,808 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:41:18,880 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:41:20,908 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:41:20,911 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:41:16.844428", "views": 50, "likes": 52}
+2021-02-18 04:41:20,912 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:41:21,809 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:41:23,843 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:41:25,881 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:41:25,884 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:41:21.819331", "views": 50, "likes": 52}
+2021-02-18 04:41:25,885 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:41:26,807 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:41:28,859 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:41:30,882 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:41:30,884 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:41:26.830163", "views": 50, "likes": 52}
+2021-02-18 04:41:30,884 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:41:31,807 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:41:33,847 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:41:35,879 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:41:35,881 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:41:31.822706", "views": 50, "likes": 52}
+2021-02-18 04:41:35,882 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:41:36,808 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:41:38,850 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:41:40,873 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:41:40,874 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:41:36.824520", "views": 50, "likes": 52}
+2021-02-18 04:41:40,875 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:41:41,807 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:41:43,831 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:41:45,857 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:41:45,859 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:41:41.809450", "views": 50, "likes": 52}
+2021-02-18 04:41:45,859 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:41:46,808 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:41:48,856 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:41:50,884 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:41:50,886 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:41:46.828884", "views": 50, "likes": 52}
+2021-02-18 04:41:50,886 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:41:50,891 - basicLogger - INFO - Getting stats starting
+2021-02-18 04:41:50,906 - basicLogger - DEBUG - {'timestamp': '2021-02-18 04:41:46.828884', 'views': 50, 'likes': 52}
+2021-02-18 04:41:50,907 - basicLogger - INFO - Request done
+2021-02-18 04:41:51,807 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:41:53,828 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:41:55,858 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:41:55,859 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:41:51.808438", "views": 50, "likes": 52}
+2021-02-18 04:41:55,860 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:41:56,806 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:41:58,845 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:42:00,881 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:42:00,884 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:41:56.819606", "views": 50, "likes": 52}
+2021-02-18 04:42:00,884 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:42:01,808 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:42:03,856 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:42:05,886 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:42:05,887 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:42:01.824516", "views": 50, "likes": 52}
+2021-02-18 04:42:05,888 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:42:06,809 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:42:08,866 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:42:10,895 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:42:10,897 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:42:06.828445", "views": 50, "likes": 52}
+2021-02-18 04:42:10,898 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:42:11,807 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:42:13,847 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:42:15,872 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:42:15,874 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:42:11.822323", "views": 50, "likes": 52}
+2021-02-18 04:42:15,875 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:42:16,807 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:42:18,846 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:42:20,876 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:42:20,879 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:42:16.823519", "views": 50, "likes": 52}
+2021-02-18 04:42:20,879 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:42:21,810 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:42:23,855 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:42:25,886 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:42:25,889 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:42:21.827692", "views": 50, "likes": 52}
+2021-02-18 04:42:25,889 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:42:26,806 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:42:28,841 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:42:30,866 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:42:30,868 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:42:26.819401", "views": 50, "likes": 52}
+2021-02-18 04:42:30,868 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:42:31,810 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:42:33,847 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:42:35,874 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:42:35,876 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:42:31.826271", "views": 50, "likes": 52}
+2021-02-18 04:42:35,877 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:42:36,809 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:42:38,854 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:42:40,883 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:42:40,886 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:42:36.827634", "views": 50, "likes": 52}
+2021-02-18 04:42:40,886 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:42:41,809 - basicLogger - INFO - Start periodic processing
+2021-02-18 04:42:43,841 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 04:42:45,864 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 04:42:45,866 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 04:42:41.821188", "views": 50, "likes": 52}
+2021-02-18 04:42:45,866 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 04:42:46,808 - basicLogger - INFO - Start periodic processing
+2021-02-18 08:57:56,922 - basicLogger - INFO - Start periodic processing
+2021-02-18 08:57:59,093 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 08:58:01,132 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 08:58:01,135 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 08:57:56.925227", "views": 50, "likes": 52}
+2021-02-18 08:58:01,136 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 08:58:01,923 - basicLogger - INFO - Start periodic processing
+2021-02-18 08:58:03,978 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 08:58:06,013 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 08:58:06,015 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 08:58:01.939004", "views": 50, "likes": 52}
+2021-02-18 08:58:06,015 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 08:58:06,920 - basicLogger - INFO - Start periodic processing
+2021-02-18 08:58:08,955 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 08:58:10,975 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 08:58:10,976 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 08:58:06.932270", "views": 50, "likes": 52}
+2021-02-18 08:58:10,976 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 08:58:11,918 - basicLogger - INFO - Start periodic processing
+2021-02-18 08:58:13,970 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 08:58:16,005 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 08:58:16,007 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 08:58:11.934111", "views": 50, "likes": 52}
+2021-02-18 08:58:16,007 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 08:58:16,920 - basicLogger - INFO - Start periodic processing
+2021-02-18 08:58:18,968 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 08:58:20,997 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 08:58:20,999 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 08:58:16.939175", "views": 50, "likes": 52}
+2021-02-18 08:58:21,000 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 08:58:21,922 - basicLogger - INFO - Start periodic processing
+2021-02-18 08:58:23,999 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 08:58:26,035 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 08:58:26,038 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 08:58:21.957249", "views": 50, "likes": 52}
+2021-02-18 08:58:26,038 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 08:58:26,922 - basicLogger - INFO - Start periodic processing
+2021-02-18 08:58:28,969 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 08:58:31,002 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 08:58:31,005 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 08:58:26.938495", "views": 50, "likes": 52}
+2021-02-18 08:58:31,006 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 08:58:31,922 - basicLogger - INFO - Start periodic processing
+2021-02-18 08:58:33,965 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 08:58:35,990 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 08:58:35,992 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 08:58:31.941302", "views": 50, "likes": 52}
+2021-02-18 08:58:35,992 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 08:59:05,663 - basicLogger - INFO - Start periodic processing
+2021-02-18 08:59:07,459 - basicLogger - INFO - Getting stats starting
+2021-02-18 08:59:07,462 - basicLogger - DEBUG - {'timestamp': '2021-02-18 08:58:31.941302', 'views': 50, 'likes': 52}
+2021-02-18 08:59:07,462 - basicLogger - INFO - Request done
+2021-02-18 08:59:07,710 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 08:59:09,743 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 08:59:09,747 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 08:59:05.666245", "views": 50, "likes": 52}
+2021-02-18 08:59:09,749 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 08:59:10,665 - basicLogger - INFO - Start periodic processing
+2021-02-18 08:59:12,733 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 08:59:14,778 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 08:59:14,781 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 08:59:10.690055", "views": 50, "likes": 52}
+2021-02-18 08:59:14,782 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 08:59:15,668 - basicLogger - INFO - Start periodic processing
+2021-02-18 08:59:17,773 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 08:59:19,861 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 08:59:19,866 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 08:59:15.710703", "views": 50, "likes": 52}
+2021-02-18 08:59:19,867 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:02:02,983 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:02:05,344 - basicLogger - INFO - Getting stats starting
+2021-02-18 09:02:05,346 - basicLogger - DEBUG - {'timestamp': '2021-02-18 08:59:15.710703', 'views': 50, 'likes': 52}
+2021-02-18 09:02:05,347 - basicLogger - INFO - Request done
+2021-02-18 09:02:07,979 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:02:12,986 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:02:15,137 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:02:17,189 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:02:17,191 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:02:12.988385", "views": 50, "likes": 52}
+2021-02-18 09:02:17,192 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:02:17,973 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:02:20,023 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:02:22,059 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:02:22,062 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:02:17.985906", "views": 50, "likes": 52}
+2021-02-18 09:02:22,062 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:02:22,987 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:02:25,069 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:02:27,117 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:02:27,121 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:02:23.018133", "views": 50, "likes": 52}
+2021-02-18 09:02:27,122 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:02:27,977 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:02:30,047 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:02:32,064 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:02:32,066 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:02:28.017098", "views": 50, "likes": 52}
+2021-02-18 09:02:32,066 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:02:32,976 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:03:00,621 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:03:02,772 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:03:04,823 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:03:04,827 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:03:00.624317", "views": 50, "likes": 52}
+2021-02-18 09:03:04,828 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:03:05,622 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:03:07,668 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:03:09,712 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:03:09,716 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:03:05.633698", "views": 50, "likes": 52}
+2021-02-18 09:03:09,716 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:03:10,622 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:03:11,112 - basicLogger - INFO - Getting stats starting
+2021-02-18 09:03:11,115 - basicLogger - DEBUG - {'timestamp': '2021-02-18 09:03:05.633698', 'views': 50, 'likes': 52}
+2021-02-18 09:03:11,116 - basicLogger - INFO - Request done
+2021-02-18 09:03:12,681 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:03:14,733 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:03:14,738 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:03:10.640584", "views": 50, "likes": 52}
+2021-02-18 09:03:14,739 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:03:15,622 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:03:17,667 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:29:13,917 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:29:16,100 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:29:18,142 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:29:18,143 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:29:13.922925", "views": 50, "likes": 52}
+2021-02-18 09:29:18,144 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:29:18,920 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:29:21,005 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:29:23,054 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:29:23,060 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:29:18.964515", "views": 50, "likes": 52}
+2021-02-18 09:29:23,061 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:29:23,917 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:29:25,985 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:29:28,026 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:29:28,028 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:29:23.938522", "views": 50, "likes": 52}
+2021-02-18 09:29:28,030 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:29:28,916 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:29:31,009 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:29:33,046 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:29:33,050 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:29:28.964404", "views": 50, "likes": 52}
+2021-02-18 09:29:33,050 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:29:33,917 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:29:36,011 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:29:38,066 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:29:38,070 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:29:33.955772", "views": 50, "likes": 52}
+2021-02-18 09:29:38,070 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:29:38,917 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:29:41,003 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:29:43,047 - basicLogger - INFO - The number of like events received are: 1
+2021-02-18 09:29:43,050 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:29:38.949469", "views": 50, "likes": 53}
+2021-02-18 09:29:43,051 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:29:43,913 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:29:46,017 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:29:47,030 - basicLogger - INFO - Getting stats starting
+2021-02-18 09:29:47,031 - basicLogger - INFO - request has started
+2021-02-18 09:29:47,032 - basicLogger - DEBUG - {'timestamp': '2021-02-18 09:29:38.949469', 'views': 50, 'likes': 53}
+2021-02-18 09:29:47,033 - basicLogger - INFO - request has completed
+2021-02-18 09:29:48,069 - basicLogger - INFO - The number of like events received are: 1
+2021-02-18 09:29:48,073 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:29:43.952703", "views": 50, "likes": 54}
+2021-02-18 09:29:48,074 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:29:48,917 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:29:50,972 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:29:53,016 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:29:53,021 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:29:48.943034", "views": 50, "likes": 54}
+2021-02-18 09:29:53,022 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:29:53,912 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:29:55,980 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:29:58,026 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:29:58,030 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:29:53.931006", "views": 50, "likes": 54}
+2021-02-18 09:29:58,031 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:29:58,911 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:30:00,971 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:30:03,013 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:30:03,017 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:29:58.938957", "views": 50, "likes": 54}
+2021-02-18 09:30:03,017 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:30:03,918 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:30:05,995 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:30:08,036 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:30:08,038 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:30:03.947950", "views": 50, "likes": 54}
+2021-02-18 09:30:08,038 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:30:08,913 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:30:10,978 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:30:13,029 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:30:13,033 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:30:08.940472", "views": 50, "likes": 54}
+2021-02-18 09:30:13,034 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:30:13,914 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:30:15,983 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:30:18,034 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:30:18,037 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:30:13.941962", "views": 50, "likes": 54}
+2021-02-18 09:30:18,038 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:30:18,918 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:30:20,987 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:30:23,029 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:30:23,033 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:30:18.950571", "views": 50, "likes": 54}
+2021-02-18 09:30:23,033 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:30:23,914 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:30:25,989 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:30:28,025 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:30:28,027 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:30:23.943633", "views": 50, "likes": 54}
+2021-02-18 09:30:28,027 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:30:28,715 - basicLogger - INFO - Getting stats starting
+2021-02-18 09:30:28,716 - basicLogger - INFO - request has started
+2021-02-18 09:30:28,745 - basicLogger - DEBUG - {'timestamp': '2021-02-18 09:30:23.943633', 'views': 50, 'likes': 54}
+2021-02-18 09:30:28,745 - basicLogger - INFO - request has completed
+2021-02-18 09:30:28,915 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:30:30,956 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:30:33,000 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:30:33,004 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:30:28.916312", "views": 50, "likes": 54}
+2021-02-18 09:30:33,005 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:30:33,916 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:30:35,966 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:30:38,005 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:30:38,010 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:30:33.932750", "views": 50, "likes": 54}
+2021-02-18 09:30:38,010 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:30:38,913 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:30:40,984 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:30:43,028 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:30:43,031 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:30:38.942217", "views": 50, "likes": 54}
+2021-02-18 09:30:43,032 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:37:29,217 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:37:31,358 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:37:33,411 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:37:33,415 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:37:29.221602", "views": 50, "likes": 54}
+2021-02-18 09:37:33,417 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:37:34,219 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:37:36,292 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:37:37,637 - basicLogger - INFO - Getting stats starting
+2021-02-18 09:37:37,639 - basicLogger - DEBUG - {'timestamp': '2021-02-18 09:37:29.221602', 'views': 50, 'likes': 54}
+2021-02-18 09:37:37,640 - basicLogger - INFO - Request done
+2021-02-18 09:37:38,337 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:37:38,341 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:37:34.246243", "views": 50, "likes": 54}
+2021-02-18 09:37:38,342 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:37:39,229 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:37:41,303 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:37:43,360 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:37:43,365 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:37:39.256172", "views": 50, "likes": 54}
+2021-02-18 09:37:43,366 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:37:44,217 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:37:46,276 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:37:48,336 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:37:48,341 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:37:44.236083", "views": 50, "likes": 54}
+2021-02-18 09:37:48,342 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:37:49,218 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:37:51,299 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:37:53,348 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:37:53,353 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:37:49.254329", "views": 50, "likes": 54}
+2021-02-18 09:37:53,354 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:37:54,221 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:37:56,309 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:37:58,354 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:37:58,358 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:37:54.261388", "views": 50, "likes": 54}
+2021-02-18 09:37:58,360 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:37:59,229 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:38:01,307 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:38:03,350 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:38:03,353 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:37:59.256531", "views": 50, "likes": 54}
+2021-02-18 09:38:03,354 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:38:04,220 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:38:06,297 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:38:08,352 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:38:08,355 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:38:04.246018", "views": 50, "likes": 54}
+2021-02-18 09:38:08,356 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:38:09,226 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:38:09,968 - basicLogger - INFO - Getting stats starting
+2021-02-18 09:38:09,970 - basicLogger - DEBUG - {'timestamp': '2021-02-18 09:38:04.246018', 'views': 50, 'likes': 54}
+2021-02-18 09:38:09,971 - basicLogger - INFO - Request done
+2021-02-18 09:38:11,274 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:38:13,331 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:38:13,335 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:38:09.239181", "views": 50, "likes": 54}
+2021-02-18 09:38:13,336 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:38:14,228 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:38:16,294 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:38:18,346 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:38:18,352 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:38:14.255893", "views": 50, "likes": 54}
+2021-02-18 09:38:18,353 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:38:19,219 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:38:21,297 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:38:23,365 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:38:23,370 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:38:19.244582", "views": 50, "likes": 54}
+2021-02-18 09:38:23,371 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:38:24,216 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:38:29,217 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:40:08,221 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:40:10,374 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:40:12,434 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:40:12,438 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:40:08.222013", "views": 50, "likes": 54}
+2021-02-18 09:40:12,439 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:40:12,524 - basicLogger - INFO - Getting stats starting
+2021-02-18 09:40:12,555 - basicLogger - DEBUG - {'timestamp': '2021-02-18 09:40:08.222013', 'views': 50, 'likes': 54}
+2021-02-18 09:40:12,555 - basicLogger - INFO - Request done
+2021-02-18 09:40:13,222 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:40:15,251 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:40:17,292 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:40:17,297 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:40:13.225027", "views": 50, "likes": 54}
+2021-02-18 09:40:17,298 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:40:18,223 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:40:20,265 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:40:22,305 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:40:22,307 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:40:18.244083", "views": 50, "likes": 54}
+2021-02-18 09:40:22,308 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:40:23,232 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:40:25,294 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:40:27,335 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:40:27,340 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:40:23.258318", "views": 50, "likes": 54}
+2021-02-18 09:40:27,341 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:40:28,225 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:40:30,271 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:40:32,311 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:40:32,315 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:40:28.246446", "views": 50, "likes": 54}
+2021-02-18 09:40:32,315 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:40:33,225 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:40:35,304 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:40:37,344 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:40:37,345 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:40:33.251392", "views": 50, "likes": 54}
+2021-02-18 09:40:37,346 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:40:38,224 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:40:40,262 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:40:42,284 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:40:42,286 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:40:38.240937", "views": 50, "likes": 54}
+2021-02-18 09:40:42,286 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:40:43,235 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:40:45,327 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:40:47,359 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:40:47,361 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:40:43.275115", "views": 50, "likes": 54}
+2021-02-18 09:40:47,361 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:40:48,241 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:40:50,305 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:40:52,326 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:40:52,327 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:40:48.275054", "views": 50, "likes": 54}
+2021-02-18 09:40:52,328 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:40:53,225 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:40:55,259 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:40:57,303 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:40:57,308 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:40:53.225635", "views": 50, "likes": 54}
+2021-02-18 09:40:57,308 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:40:58,227 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:41:00,314 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:41:02,354 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:41:02,357 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:40:58.263421", "views": 50, "likes": 54}
+2021-02-18 09:41:02,358 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:41:03,228 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:41:05,295 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:41:07,341 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:41:07,345 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:41:03.252412", "views": 50, "likes": 54}
+2021-02-18 09:41:07,346 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:41:08,228 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:41:10,299 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:41:12,345 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:41:12,349 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:41:08.253287", "views": 50, "likes": 54}
+2021-02-18 09:41:12,350 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:41:13,227 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:41:15,299 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:41:17,336 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:41:17,337 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:41:13.253351", "views": 50, "likes": 54}
+2021-02-18 09:41:17,338 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:41:18,228 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:41:20,294 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:41:22,341 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:41:22,345 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:41:18.251764", "views": 50, "likes": 54}
+2021-02-18 09:41:22,347 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:41:23,229 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:41:25,291 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:41:27,306 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:41:27,307 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:41:23.255041", "views": 50, "likes": 54}
+2021-02-18 09:41:27,307 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:41:28,229 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:41:30,295 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:41:32,324 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:41:32,326 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:41:28.261471", "views": 50, "likes": 54}
+2021-02-18 09:41:32,326 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:41:33,230 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:41:35,312 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:41:37,364 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:41:37,368 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:41:33.266955", "views": 50, "likes": 54}
+2021-02-18 09:41:37,369 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:41:38,229 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:41:40,307 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:41:42,353 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:41:42,357 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:41:38.255340", "views": 50, "likes": 54}
+2021-02-18 09:41:42,358 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:41:43,229 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:41:45,306 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:41:47,344 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:41:47,346 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:41:43.260989", "views": 50, "likes": 54}
+2021-02-18 09:41:47,347 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:41:48,230 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:41:50,306 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:41:52,351 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:41:52,354 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:41:48.264980", "views": 50, "likes": 54}
+2021-02-18 09:41:52,355 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:41:53,228 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:41:55,285 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:41:57,318 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:41:57,321 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:41:53.253570", "views": 50, "likes": 54}
+2021-02-18 09:41:57,322 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:41:58,230 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:42:00,310 - basicLogger - INFO - The number of view events received are: 5
+2021-02-18 09:42:02,360 - basicLogger - INFO - The number of like events received are: 5
+2021-02-18 09:42:02,364 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:41:58.261000", "views": 55, "likes": 59}
+2021-02-18 09:42:02,365 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:42:03,227 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:42:05,288 - basicLogger - INFO - The number of view events received are: 5
+2021-02-18 09:42:07,338 - basicLogger - INFO - The number of like events received are: 10
+2021-02-18 09:42:07,341 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:42:03.245914", "views": 60, "likes": 69}
+2021-02-18 09:42:07,342 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:42:08,226 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:42:10,306 - basicLogger - INFO - The number of view events received are: 5
+2021-02-18 09:42:12,366 - basicLogger - INFO - The number of like events received are: 10
+2021-02-18 09:42:12,371 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:42:08.255004", "views": 65, "likes": 79}
+2021-02-18 09:42:12,371 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:42:13,230 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:42:15,289 - basicLogger - INFO - The number of view events received are: 5
+2021-02-18 09:42:17,334 - basicLogger - INFO - The number of like events received are: 10
+2021-02-18 09:42:17,337 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:42:13.257270", "views": 70, "likes": 89}
+2021-02-18 09:42:17,337 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:42:18,226 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:42:20,271 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:42:22,317 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:42:22,320 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:42:18.237029", "views": 70, "likes": 89}
+2021-02-18 09:42:22,321 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:42:23,230 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:42:23,652 - basicLogger - INFO - Getting stats starting
+2021-02-18 09:42:23,655 - basicLogger - DEBUG - {'timestamp': '2021-02-18 09:42:18.237029', 'views': 70, 'likes': 89}
+2021-02-18 09:42:23,656 - basicLogger - INFO - Request done
+2021-02-18 09:42:25,312 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:42:27,361 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:42:27,365 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:42:23.262303", "views": 70, "likes": 89}
+2021-02-18 09:42:27,367 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:42:28,229 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:42:30,302 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:42:32,352 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:42:32,355 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:42:28.253944", "views": 70, "likes": 89}
+2021-02-18 09:42:32,356 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:42:33,228 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:42:35,313 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:42:37,366 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:42:37,370 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:42:33.259053", "views": 70, "likes": 89}
+2021-02-18 09:42:37,370 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:42:38,232 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:42:40,323 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:42:42,347 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:42:42,350 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:42:38.271197", "views": 70, "likes": 89}
+2021-02-18 09:42:42,350 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:42:43,228 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:42:45,310 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:42:47,357 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:42:47,362 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:42:43.256093", "views": 70, "likes": 89}
+2021-02-18 09:42:47,363 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:42:48,232 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:42:50,314 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:42:52,355 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:42:52,358 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:42:48.261705", "views": 70, "likes": 89}
+2021-02-18 09:42:52,359 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 09:42:53,226 - basicLogger - INFO - Start periodic processing
+2021-02-18 09:42:55,293 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 09:42:57,339 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 09:42:57,343 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 09:42:53.272203", "views": 70, "likes": 89}
+2021-02-18 09:42:57,344 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 10:09:46,478 - basicLogger - INFO - Start periodic processing
+2021-02-18 10:09:48,513 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 10:09:50,527 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 10:09:50,528 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 10:09:46.479436", "views": 70, "likes": 89}
+2021-02-18 10:09:50,528 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 10:09:51,480 - basicLogger - INFO - Start periodic processing
+2021-02-18 10:09:53,342 - basicLogger - INFO - Getting stats starting
+2021-02-18 10:09:53,343 - basicLogger - DEBUG - {'timestamp': '2021-02-18 10:09:46.479436', 'views': 70, 'likes': 89}
+2021-02-18 10:09:53,343 - basicLogger - INFO - Request done
+2021-02-18 10:09:53,504 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 10:09:55,523 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 10:09:55,525 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 10:09:51.486102", "views": 70, "likes": 89}
+2021-02-18 10:09:55,525 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 10:09:56,479 - basicLogger - INFO - Start periodic processing
+2021-02-18 10:09:58,504 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 10:10:00,516 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 10:10:00,517 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 10:09:56.488653", "views": 70, "likes": 89}
+2021-02-18 10:10:00,517 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 10:10:01,478 - basicLogger - INFO - Start periodic processing
+2021-02-18 10:10:03,498 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 10:10:05,513 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 10:10:05,514 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 10:10:01.485787", "views": 70, "likes": 89}
+2021-02-18 10:10:05,514 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 10:10:06,478 - basicLogger - INFO - Start periodic processing
+2021-02-18 10:10:08,499 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 10:10:10,512 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 10:10:10,513 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 10:10:06.485659", "views": 70, "likes": 89}
+2021-02-18 10:10:10,514 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 10:10:11,479 - basicLogger - INFO - Start periodic processing
+2021-02-18 10:10:13,494 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 10:10:15,505 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 10:10:15,506 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 10:10:11.480251", "views": 70, "likes": 89}
+2021-02-18 10:10:15,506 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 10:10:16,478 - basicLogger - INFO - Start periodic processing
+2021-02-18 10:10:18,497 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 10:10:20,513 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 10:10:20,514 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 10:10:16.486494", "views": 70, "likes": 89}
+2021-02-18 10:10:20,514 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:20:05,798 - basicLogger - INFO - Getting stats starting
+2021-02-18 11:20:05,814 - basicLogger - DEBUG - {'timestamp': '2021-02-18 10:10:16.486494', 'views': 70, 'likes': 89}
+2021-02-18 11:20:05,814 - basicLogger - INFO - Request done
+2021-02-18 11:20:07,511 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:20:09,595 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:20:11,618 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:20:11,620 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:20:07.512059", "views": 70, "likes": 89}
+2021-02-18 11:20:11,620 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:20:12,511 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:20:14,532 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:20:16,545 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:20:16,546 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:20:12.519229", "views": 70, "likes": 89}
+2021-02-18 11:20:16,546 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:20:17,512 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:20:19,539 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:20:21,552 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:20:21,553 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:20:17.526250", "views": 70, "likes": 89}
+2021-02-18 11:20:21,553 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:20:22,513 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:20:24,534 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:20:26,548 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:20:26,549 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:20:22.521152", "views": 70, "likes": 89}
+2021-02-18 11:20:26,549 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:20:27,511 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:20:29,538 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:20:31,557 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:20:31,558 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:20:27.522374", "views": 70, "likes": 89}
+2021-02-18 11:20:31,558 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:20:32,513 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:20:34,542 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:20:36,558 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:20:36,559 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:20:32.522353", "views": 70, "likes": 89}
+2021-02-18 11:20:36,559 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:20:37,513 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:20:39,533 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:20:41,551 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:20:41,552 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:20:37.522239", "views": 70, "likes": 89}
+2021-02-18 11:20:41,552 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:20:42,511 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:20:44,530 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:20:46,543 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:20:46,544 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:20:42.520567", "views": 70, "likes": 89}
+2021-02-18 11:20:46,544 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:20:47,513 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:20:49,532 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:20:51,546 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:20:51,548 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:20:47.520087", "views": 70, "likes": 89}
+2021-02-18 11:20:51,548 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:20:52,513 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:20:54,536 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:20:56,549 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:20:56,550 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:20:52.520609", "views": 70, "likes": 89}
+2021-02-18 11:20:56,550 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:20:57,512 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:20:59,533 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:21:01,545 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:21:01,546 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:20:57.519383", "views": 70, "likes": 89}
+2021-02-18 11:21:01,546 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:21:02,510 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:21:04,528 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:21:06,538 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:21:06,540 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:21:02.518660", "views": 70, "likes": 89}
+2021-02-18 11:21:06,540 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:21:07,512 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:21:09,532 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:21:11,545 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:21:11,546 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:21:07.518252", "views": 70, "likes": 89}
+2021-02-18 11:21:11,546 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:21:12,512 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:21:14,530 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:21:16,543 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:21:16,544 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:21:12.518178", "views": 70, "likes": 89}
+2021-02-18 11:21:16,544 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:21:17,511 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:21:19,542 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:21:21,555 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:21:21,556 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:21:17.527823", "views": 70, "likes": 89}
+2021-02-18 11:21:21,556 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:21:22,512 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:21:24,536 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:21:26,548 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:21:26,548 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:21:22.522425", "views": 70, "likes": 89}
+2021-02-18 11:21:26,549 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:21:27,511 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:21:29,531 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:21:31,544 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:21:31,545 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:21:27.517768", "views": 70, "likes": 89}
+2021-02-18 11:21:31,546 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:21:32,511 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:21:34,530 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:21:36,541 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:21:36,542 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:21:32.519370", "views": 70, "likes": 89}
+2021-02-18 11:21:36,542 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:21:37,512 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:21:39,533 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:21:41,549 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:21:41,550 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:21:37.520324", "views": 70, "likes": 89}
+2021-02-18 11:21:41,550 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:21:42,511 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:21:44,562 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:21:46,576 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:21:46,577 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:21:42.519110", "views": 70, "likes": 89}
+2021-02-18 11:21:46,577 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:21:47,510 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:21:49,529 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:21:51,543 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:21:51,544 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:21:47.517612", "views": 70, "likes": 89}
+2021-02-18 11:21:51,544 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:21:52,512 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:21:54,536 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:21:56,548 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:21:56,549 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:21:52.523362", "views": 70, "likes": 89}
+2021-02-18 11:21:56,549 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:21:57,513 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:21:59,531 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:26:31,745 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:26:33,779 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:26:35,793 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:26:35,794 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:26:31.746255", "views": 70, "likes": 89}
+2021-02-18 11:26:35,794 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:26:36,743 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:26:38,772 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:26:40,786 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:26:40,787 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:26:36.756274", "views": 70, "likes": 89}
+2021-02-18 11:26:40,787 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:26:41,729 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:26:43,749 - basicLogger - INFO - The number of view events received are: 5
+2021-02-18 11:26:45,764 - basicLogger - INFO - The number of like events received are: 5
+2021-02-18 11:26:45,765 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:26:41.735905", "views": 75, "likes": 94}
+2021-02-18 11:26:45,765 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:26:46,743 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:26:48,759 - basicLogger - INFO - The number of view events received are: 10
+2021-02-18 11:26:50,772 - basicLogger - INFO - The number of like events received are: 10
+2021-02-18 11:26:50,773 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:26:46.744017", "views": 85, "likes": 104}
+2021-02-18 11:26:50,773 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:26:51,729 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:26:53,749 - basicLogger - INFO - The number of view events received are: 6
+2021-02-18 11:26:55,765 - basicLogger - INFO - The number of like events received are: 10
+2021-02-18 11:26:55,766 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:26:51.737466", "views": 91, "likes": 114}
+2021-02-18 11:26:55,766 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:26:56,743 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:26:58,767 - basicLogger - INFO - The number of view events received are: 8
+2021-02-18 11:27:00,783 - basicLogger - INFO - The number of like events received are: 13
+2021-02-18 11:27:00,784 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:26:56.754729", "views": 99, "likes": 127}
+2021-02-18 11:27:00,784 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:27:01,729 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:27:03,750 - basicLogger - INFO - The number of view events received are: 10
+2021-02-18 11:27:05,767 - basicLogger - INFO - The number of like events received are: 11
+2021-02-18 11:27:05,768 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:27:01.736828", "views": 109, "likes": 138}
+2021-02-18 11:27:05,768 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:27:06,730 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:27:08,755 - basicLogger - INFO - The number of view events received are: 10
+2021-02-18 11:27:10,770 - basicLogger - INFO - The number of like events received are: 10
+2021-02-18 11:27:10,771 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:27:06.738154", "views": 119, "likes": 148}
+2021-02-18 11:27:10,771 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:27:11,743 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:27:13,763 - basicLogger - INFO - The number of view events received are: 7
+2021-02-18 11:27:15,775 - basicLogger - INFO - The number of like events received are: 10
+2021-02-18 11:27:15,776 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:27:11.751102", "views": 126, "likes": 158}
+2021-02-18 11:27:15,776 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:27:16,728 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:27:18,752 - basicLogger - INFO - The number of view events received are: 7
+2021-02-18 11:27:20,767 - basicLogger - INFO - The number of like events received are: 12
+2021-02-18 11:27:20,768 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:27:16.734971", "views": 133, "likes": 170}
+2021-02-18 11:27:20,768 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:27:21,729 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:27:23,752 - basicLogger - INFO - The number of view events received are: 5
+2021-02-18 11:27:25,766 - basicLogger - INFO - The number of like events received are: 8
+2021-02-18 11:27:25,767 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:27:21.736206", "views": 138, "likes": 178}
+2021-02-18 11:27:25,767 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:27:26,742 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:27:28,760 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:27:30,772 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:27:30,773 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:27:26.749399", "views": 138, "likes": 178}
+2021-02-18 11:27:30,773 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:27:31,731 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:27:33,751 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:27:35,765 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:27:35,766 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:27:31.738407", "views": 138, "likes": 178}
+2021-02-18 11:27:35,766 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:27:36,742 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:27:38,768 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:27:40,780 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:27:40,781 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:27:36.755521", "views": 138, "likes": 178}
+2021-02-18 11:27:40,781 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:27:41,732 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:27:43,751 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:27:45,764 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:27:45,764 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:27:41.739111", "views": 138, "likes": 178}
+2021-02-18 11:27:45,765 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:27:46,740 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:27:48,761 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:27:50,773 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:27:50,774 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:27:46.747287", "views": 138, "likes": 178}
+2021-02-18 11:27:50,774 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:27:51,732 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:27:53,749 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:27:55,764 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:27:55,765 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:27:51.737212", "views": 138, "likes": 178}
+2021-02-18 11:27:55,765 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:27:56,741 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:27:58,760 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:28:00,772 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:28:00,773 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:27:56.748326", "views": 138, "likes": 178}
+2021-02-18 11:28:00,773 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:28:01,732 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:28:03,753 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:28:05,765 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:28:05,766 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:28:01.740883", "views": 138, "likes": 178}
+2021-02-18 11:28:05,766 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:28:06,740 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:28:08,759 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:28:10,773 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:28:10,774 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:28:06.747097", "views": 138, "likes": 178}
+2021-02-18 11:28:10,775 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:28:11,733 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:28:13,757 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:28:15,768 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:28:15,769 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:28:11.741164", "views": 138, "likes": 178}
+2021-02-18 11:28:15,769 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:28:16,737 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:28:18,759 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:28:20,774 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:28:20,775 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:28:16.745697", "views": 138, "likes": 178}
+2021-02-18 11:28:20,776 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:28:21,736 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:28:23,757 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:28:25,771 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:28:25,772 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:28:21.744667", "views": 138, "likes": 178}
+2021-02-18 11:28:25,772 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:28:26,738 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:28:28,758 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:28:30,772 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:28:30,774 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:28:26.744326", "views": 138, "likes": 178}
+2021-02-18 11:28:30,774 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:28:31,734 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:28:33,150 - basicLogger - INFO - Getting stats starting
+2021-02-18 11:28:33,151 - basicLogger - DEBUG - {'timestamp': '2021-02-18 11:28:26.744326', 'views': 138, 'likes': 178}
+2021-02-18 11:28:33,151 - basicLogger - INFO - Request done
+2021-02-18 11:28:33,768 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:28:35,779 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:28:35,780 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:28:31.743934", "views": 138, "likes": 178}
+2021-02-18 11:28:35,780 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:28:36,738 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:28:38,756 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:28:40,771 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:28:40,772 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:28:36.745734", "views": 138, "likes": 178}
+2021-02-18 11:28:40,772 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:28:41,734 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:28:43,753 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:28:45,764 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:28:45,765 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:28:41.741195", "views": 138, "likes": 178}
+2021-02-18 11:28:45,765 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:28:46,737 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:28:48,764 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:28:50,779 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:28:50,780 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:28:46.752121", "views": 138, "likes": 178}
+2021-02-18 11:28:50,780 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:28:51,735 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:28:53,763 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:28:55,787 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:28:55,788 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:28:51.749658", "views": 138, "likes": 178}
+2021-02-18 11:28:55,789 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:28:56,738 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:28:58,759 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:29:00,772 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:29:00,773 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:28:56.745451", "views": 138, "likes": 178}
+2021-02-18 11:29:00,773 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:29:01,733 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:29:03,754 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:29:05,765 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:29:05,765 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:29:01.741607", "views": 138, "likes": 178}
+2021-02-18 11:29:05,766 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:29:06,740 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:29:08,758 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:29:10,770 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:29:10,771 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:29:06.747056", "views": 138, "likes": 178}
+2021-02-18 11:29:10,771 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:29:11,731 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:29:13,750 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:29:15,769 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:29:15,770 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:29:11.738783", "views": 138, "likes": 178}
+2021-02-18 11:29:15,771 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:29:16,740 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:29:18,776 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:29:20,789 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:29:20,790 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:29:16.754635", "views": 138, "likes": 178}
+2021-02-18 11:29:20,790 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:29:21,733 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:29:23,755 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:29:25,768 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:29:25,769 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:29:21.742028", "views": 138, "likes": 178}
+2021-02-18 11:29:25,769 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:29:26,741 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:29:28,759 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:29:30,776 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:29:30,777 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:29:26.747001", "views": 138, "likes": 178}
+2021-02-18 11:29:30,777 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:29:31,733 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:29:33,752 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:29:35,764 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:29:35,765 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:29:31.742395", "views": 138, "likes": 178}
+2021-02-18 11:29:35,765 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:29:36,739 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:29:38,760 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:29:40,771 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:29:40,773 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:29:36.747475", "views": 138, "likes": 178}
+2021-02-18 11:29:40,773 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:29:41,733 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:29:43,752 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:29:45,762 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:29:45,763 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:29:41.739662", "views": 138, "likes": 178}
+2021-02-18 11:29:45,763 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:34:04,873 - basicLogger - INFO - Getting stats starting
+2021-02-18 11:34:04,874 - basicLogger - DEBUG - {'timestamp': '2021-02-18 11:29:41.739662', 'views': 138, 'likes': 178}
+2021-02-18 11:34:04,874 - basicLogger - INFO - Request done
+2021-02-18 11:34:05,333 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:34:07,380 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:34:08,652 - basicLogger - INFO - Getting stats starting
+2021-02-18 11:34:08,653 - basicLogger - DEBUG - {'timestamp': '2021-02-18 11:29:41.739662', 'views': 138, 'likes': 178}
+2021-02-18 11:34:08,653 - basicLogger - INFO - Request done
+2021-02-18 11:34:09,395 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:34:09,396 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:34:05.334034", "views": 138, "likes": 178}
+2021-02-18 11:34:09,396 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:34:10,332 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:34:12,358 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:34:14,372 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:34:14,373 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:34:10.342468", "views": 138, "likes": 178}
+2021-02-18 11:34:14,373 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:34:15,333 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:34:17,354 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:34:19,368 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:34:19,369 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:34:15.341270", "views": 138, "likes": 178}
+2021-02-18 11:34:19,369 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:34:20,334 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:34:22,349 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:34:24,363 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:34:24,364 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:34:20.335902", "views": 138, "likes": 178}
+2021-02-18 11:34:24,365 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:34:25,334 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:34:27,358 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:34:29,374 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:34:29,376 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:34:25.341162", "views": 138, "likes": 178}
+2021-02-18 11:34:29,376 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:34:51,640 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:34:53,657 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:34:55,670 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:34:55,671 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:34:51.641837", "views": 138, "likes": 178, "num_comments": 0}
+2021-02-18 11:34:55,671 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:34:56,640 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:34:58,664 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:34:59,436 - basicLogger - INFO - Getting stats starting
+2021-02-18 11:34:59,437 - basicLogger - DEBUG - {'timestamp': '2021-02-18 11:34:51.641837', 'views': 138, 'likes': 178, 'num_comments': 0}
+2021-02-18 11:34:59,437 - basicLogger - INFO - Request done
+2021-02-18 11:35:00,678 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:35:00,679 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:34:56.648305", "views": 138, "likes": 178, "num_comments": 0}
+2021-02-18 11:35:00,679 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:35:01,641 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:35:03,662 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:35:05,675 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:35:05,676 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:35:01.650763", "views": 138, "likes": 178, "num_comments": 0}
+2021-02-18 11:35:05,676 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:35:06,641 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:35:08,665 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:35:10,680 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:35:10,681 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:35:06.650661", "views": 138, "likes": 178, "num_comments": 0}
+2021-02-18 11:35:10,681 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:35:11,641 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:35:13,662 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:35:15,675 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:35:15,677 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:35:11.648791", "views": 138, "likes": 178, "num_comments": 0}
+2021-02-18 11:35:15,677 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:35:16,641 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:35:18,664 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:35:20,677 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:35:20,678 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:35:16.650577", "views": 138, "likes": 178, "num_comments": 0}
+2021-02-18 11:35:20,679 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:35:21,641 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:35:23,662 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:35:25,677 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:35:25,678 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:35:21.648628", "views": 138, "likes": 178, "num_comments": 0}
+2021-02-18 11:35:25,678 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:35:26,642 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:35:28,664 - basicLogger - INFO - The number of view events received are: 0
+2021-02-18 11:35:30,674 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:35:30,676 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:35:26.650410", "views": 138, "likes": 178, "num_comments": 0}
+2021-02-18 11:35:30,676 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:35:31,642 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:35:33,662 - basicLogger - INFO - The number of view events received are: 1
+2021-02-18 11:35:35,676 - basicLogger - INFO - The number of like events received are: 0
+2021-02-18 11:35:35,677 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:35:31.649056", "views": 139, "likes": 178, "num_comments": 0}
+2021-02-18 11:35:35,677 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:35:36,640 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:35:38,665 - basicLogger - INFO - The number of view events received are: 10
+2021-02-18 11:35:40,679 - basicLogger - INFO - The number of like events received are: 5
+2021-02-18 11:35:40,680 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:35:36.649762", "views": 149, "likes": 183, "num_comments": 0}
+2021-02-18 11:35:40,680 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:35:41,640 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:35:43,667 - basicLogger - INFO - The number of view events received are: 10
+2021-02-18 11:35:45,681 - basicLogger - INFO - The number of like events received are: 10
+2021-02-18 11:35:45,683 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:35:41.649013", "views": 159, "likes": 193, "num_comments": 0}
+2021-02-18 11:35:45,683 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:35:46,641 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:35:48,664 - basicLogger - INFO - The number of view events received are: 7
+2021-02-18 11:35:50,679 - basicLogger - INFO - The number of like events received are: 10
+2021-02-18 11:35:50,681 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:35:46.650376", "views": 166, "likes": 203, "num_comments": 0}
+2021-02-18 11:35:50,681 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:35:51,640 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:35:53,666 - basicLogger - INFO - The number of view events received are: 7
+2021-02-18 11:35:55,680 - basicLogger - INFO - The number of like events received are: 12
+2021-02-18 11:35:55,682 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:35:51.648739", "views": 173, "likes": 215, "num_comments": 0}
+2021-02-18 11:35:55,682 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:35:56,641 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:35:58,666 - basicLogger - INFO - The number of view events received are: 10
+2021-02-18 11:36:00,680 - basicLogger - INFO - The number of like events received are: 13
+2021-02-18 11:36:00,681 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:35:56.648985", "views": 183, "likes": 228, "num_comments": 0}
+2021-02-18 11:36:00,682 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:38:13,209 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:38:15,231 - basicLogger - INFO - The number of view events received are: 30
+2021-02-18 11:38:17,246 - basicLogger - INFO - The number of like events received are: 30
+2021-02-18 11:38:17,247 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:38:13.209225", "views": 213, "likes": 258, "num_comments": 0}
+2021-02-18 11:38:17,247 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:38:18,209 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:38:20,231 - basicLogger - INFO - The number of view events received are: 9
+2021-02-18 11:38:22,245 - basicLogger - INFO - The number of like events received are: 10
+2021-02-18 11:38:22,246 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:38:18.216739", "views": 222, "likes": 268, "num_comments": 0}
+2021-02-18 11:38:22,246 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:38:23,208 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:38:25,230 - basicLogger - INFO - The number of view events received are: 5
+2021-02-18 11:38:27,246 - basicLogger - INFO - The number of like events received are: 10
+2021-02-18 11:38:27,247 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:38:23.216036", "views": 227, "likes": 278, "num_comments": 0}
+2021-02-18 11:38:27,247 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:38:28,209 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:38:30,232 - basicLogger - INFO - The number of view events received are: 10
+2021-02-18 11:38:32,247 - basicLogger - INFO - The number of like events received are: 14
+2021-02-18 11:38:32,248 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:38:28.216111", "views": 237, "likes": 292, "num_comments": 0}
+2021-02-18 11:38:32,248 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:38:33,209 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:38:35,232 - basicLogger - INFO - The number of view events received are: 10
+2021-02-18 11:38:37,247 - basicLogger - INFO - The number of like events received are: 10
+2021-02-18 11:38:37,248 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:38:33.216469", "views": 247, "likes": 302, "num_comments": 0}
+2021-02-18 11:38:37,248 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:38:38,209 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:38:40,229 - basicLogger - INFO - The number of view events received are: 5
+2021-02-18 11:45:11,329 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:45:13,346 - basicLogger - INFO - The number of view events received are: 5
+2021-02-18 11:45:15,364 - basicLogger - INFO - The number of like events received are: 5
+2021-02-18 11:45:17,381 - basicLogger - INFO - The number of comments events received are: 10
+2021-02-18 11:45:17,382 - basicLogger - DEBUG - Updated stats: {"timestamp": "2021-02-18 11:45:11.329311", "views": 252, "likes": 307, "num_comments": 10}
+2021-02-18 11:45:17,384 - basicLogger - INFO - Periodic processing has ended
+2021-02-18 11:45:21,329 - basicLogger - INFO - Start periodic processing
+2021-02-18 11:45:23,348 - basicLogger - INFO - The number of view events received are: 14

@@ -1,0 +1,67 @@
+openapi: 3.0.0
+info:
+  description: This API receives the reading of likes and views from my Youtube videos
+  version: "1.0.0"
+  title: Youtube API
+  contact:
+    email: taylornguyen604@gmail.com
+tags:
+  - name: plugin
+    description: plugin to track video views and likes
+paths:
+  /stats:
+    get:
+      tags:
+        - plugin
+      summary: shows stats
+      operationId: app.get_stats
+      description: Shows total stats
+      responses:
+        '200':
+          description: Successfully returned a list of stats
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/ReadingStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    ReadingStats:
+      required:
+#        - user_id
+        - timestamp
+        - num_comments
+        - views
+        - likes
+      properties:
+#        user_id:
+#          type: string
+#          format: uuid
+#          example: d290f1ee-6c54-4b01-90e6-d701748f051
+        timestamp:
+          type: string
+          format: date-time
+          example: 2016-08-29T09:12:33.001Z
+        views:
+          type: integer
+          format: number
+          example: 3
+        likes:
+          type: integer
+          format: number
+          example: 3
+        num_comments:
+          type: integer
+          format: number
+          example: 3
+      type: object
