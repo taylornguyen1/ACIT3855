@@ -63,7 +63,7 @@ EVENT_FILE = "events.json"
 def total_views(body):
     """count total view of video"""
     session = DB_SESSION()
-    LIST_COUNT = []
+    # LIST_COUNT = []
 
     count_views = VideoViews(body['user_id'],
                              body['timestamp'],
@@ -80,7 +80,7 @@ def total_views(body):
 def total_likes(body):
     """count total likes of video"""
     session = DB_SESSION()
-    LIST_COUNT = []
+    # LIST_COUNT = []
 
     count_likes = VideoLikes(body['user_id'],
                              body['timestamp'],

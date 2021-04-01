@@ -109,13 +109,10 @@ def get_total_views(index):
 
 app = connexion.FlaskApp(__name__, specification_dir='')
 CORS(app.app)
-app.app.config['CORS_HEADERS'] = ] = 'Content-Type'
+app.app.config['CORS_HEADERS'] = 'Content-Type'
 app.add_api("taylornguyen1-Youtube-1.0.0-swagger.yaml",
             strict_validation=True,
             validate_responses=True)
-
-
-
 
 
 
