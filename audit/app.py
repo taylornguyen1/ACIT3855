@@ -15,16 +15,17 @@ from pykafka.common import OffsetType
 from threading import Thread
 import json
 from flask_cors import CORS, cross_origin
+import os
 
 # DB_ENGINE = create_engine("sqlite:///readings.sqlite")
-with open('app_conf.yml', 'r') as f:
-    app_config = yaml.safe_load(f.read())
+#with open('app_conf.yml', 'r') as f:
+#    app_config = yaml.safe_load(f.read())
 
-with open('log_conf.yml', 'r') as f:
-    log_config = yaml.safe_load(f.read())
-    logging.config.dictConfig(log_config)
+#with open('log_conf.yml', 'r') as f:
+#    log_config = yaml.safe_load(f.read())
+#    logging.config.dictConfig(log_config)
 
-logger = logging.getLogger('basicLogger')
+#logger = logging.getLogger('basicLogger')
 
 #DB_ENGINE = create_engine(
 #    'mysql+pymysql://' + app_config['datastore']['user'] + ':' + app_config['datastore']['password'] + '@' +
@@ -86,10 +87,27 @@ def get_total_views(index):
 
 app = connexion.FlaskApp(__name__, specification_dir='')
 CORS(app.app)
-app.app.config['CORS_HEADERS'] = 'Content-Type'
+app.app.config['CORS_HEADERS'] = ] = 'Content-Type'
 app.add_api("taylornguyen1-Youtube-1.0.0-swagger.yaml",
             strict_validation=True,
             validate_responses=True)
+
+if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
+        print("In Test Environment")
+        app_conf_file = "/config/app_conf.yml"
+        app_conf_file = "/config/log_conf.yml"
+else:
+        print("In Dev Environment")
+        app_conf_file = "/config/app_conf.yml"
+        app_conf_file = "/config/log_conf.yml"
+with open(app_conf_file, 'r') as f:
+        app_config = yaml.safe_load(f.read())
+        logging.config.dictConfig(log_config)
+logger = logging.getLogger('basicLogger')
+
+logger.info("App Conf File: %s" % app_conf_file)
+logger.info("Log Conf File: %s" % app_conf_file)
+
 
 if __name__ == "__main__":
     logger.info(
